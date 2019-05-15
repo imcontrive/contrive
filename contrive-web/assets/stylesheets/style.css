@@ -336,11 +336,9 @@ h6 {
 	}
 	.nav__menu {
 		display: flex;
-		/* flex-direction: column; */
 		position: absolute;
 		right: 1.0rem;
 		margin-left: 1rem;
-		/* left: auto; */
 		top: 3.5rem;
 		display: none;
 		background: rgba(16, 16, 16, 0.85);
